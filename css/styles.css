@@ -457,7 +457,10 @@ padding-bottom: 120px;
 
 .modal-container {
         position: fixed;
+        top: 0;
+        left: 0;
 }
+
 .section-portfolio {
         padding-top: 96px; padding-bottom: 120px;
 }
