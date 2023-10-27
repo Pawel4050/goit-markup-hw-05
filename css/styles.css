@@ -471,6 +471,13 @@ padding-bottom: 120px;
         pointer-events: none;
 }
 
+.modal {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%) scale(1);
+}
+
 .section-portfolio {
         padding-top: 96px; padding-bottom: 120px;
 }
