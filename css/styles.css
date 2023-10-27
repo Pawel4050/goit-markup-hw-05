@@ -83,7 +83,7 @@ box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.1
         color: var(--activate-color);
 }
 
-.link-nav::after {
+.link-index::after {
         content: '';
         position: absolute;
         left: 0;
